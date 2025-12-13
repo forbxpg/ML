@@ -11,6 +11,8 @@ distances*
 models_*
 test_me*
 images*
+overall*
+auc_metrics*
 train_me*
 *.jpg
 # Distribution / packaging
